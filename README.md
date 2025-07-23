@@ -70,3 +70,4 @@ Deploy the model using a web interface or integrate it into messaging platforms.
 
 *OUTPUT*:
 
+![Image](https://github.com/user-attachments/assets/53ded16b-3077-4989-b6ec-01bd7f08c5be)
